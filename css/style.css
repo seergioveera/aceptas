@@ -1,0 +1,22 @@
+body {
+    background: pink;
+    background-image: url('../img/heart.svg');
+    background-repeat: repeat;
+    width: 26px;     
+    height: 26px;
+}
+
+h1,
+.btn {
+    font-family: 'Lobster', cursive;
+    margin: 5%;
+
+}
+
+.container {
+    background: pink;
+    border-radius: 15%;
+    padding: 2%;
+    border-color: white;
+    border-style: solid;
+}
